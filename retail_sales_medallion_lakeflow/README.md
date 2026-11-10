@@ -50,7 +50,11 @@ The pipeline follows a structured transformation process in which data moves fro
 - Silver: Cleaned and validated data.
 - Gold: Business-ready reporting data.
 
-Pipeline execution and dependencies are managed through Lakeflow Spark Declarative Pipelines.
+Pipeline execution and dependencies are managed through Lakeflow Spark Declarative Pipelines.'
+
+
+<img width="1240" height="741" alt="image" src="https://github.com/user-attachments/assets/65d40596-1b5c-441d-ae71-f09a5469b9e9" />
+
 
 ## Tech Stack
 
