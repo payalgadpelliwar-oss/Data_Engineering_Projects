@@ -4,7 +4,8 @@ An end-to-end Retail Sales Data Engineering project built using **Azure Databric
 
 This project transforms raw retail sales data into cleaned, validated, and business-ready datasets. It demonstrates data ingestion, transformation, data quality validation, pipeline lineage, and reconciliation across multiple layers.
 
-architecture.png
+<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/8ba03018-9278-4e18-974e-039319054b80" />
+
 
 ## Table of Contents
 
