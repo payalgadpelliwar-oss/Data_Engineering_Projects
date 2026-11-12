@@ -141,7 +141,7 @@ Key validation areas:
 
 ## How to Run
 
-1. Open Azure Databricks.
+1. Open Databricks.
 2. Access the project workspace.
 3. Configure the source dataset.
 4. Open the Lakeflow Spark Declarative Pipeline.
